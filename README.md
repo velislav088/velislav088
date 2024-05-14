@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @velislav088
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in Software Engineering and Web Development
 - 🌱 I’m currently learning C#, HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: message me
