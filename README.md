@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @velislav088<br>👀 I’m interested in Software Engineering and Web Development<br>🌱 I’m currently learning:<br>Code: C#, Javascript<br>Backend: .NET Core, ASP.NET Core, xUnit<br>Frontend: React<br>Databases: MSSQL, MongoDB<br>😄 Pronouns: he/him
+👋 Hi, I’m @velislav088<br>👀 I’m interested in Software Engineering and Web Development<br>🌱 I’m currently learning/want to learn:<br>Code: C#, Javascript<br>Backend: .NET Core, ASP.NET Core, xUnit<br>Frontend: React<br>Databases: MSSQL, MongoDB<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
