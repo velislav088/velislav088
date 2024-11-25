@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @velislav088<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning data structures and algorithms and cloud engineering basics<br>🔭 I’m currently working on [TimeWallet: A personal finance management app](https://github.com/velislav088/TimeWallet)<br>😄 Pronouns: he/him
+👋 Hi, I’m @velislav088<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning data structures and algorithms and cloud engineering basics<br>🔭 I’m currently working on [TimeWallet](https://github.com/velislav088/TimeWallet): A personal finance management app<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
