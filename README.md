@@ -24,8 +24,6 @@
 ## 🏢 Projects I'm (currently) working on
 ### [LostMost](https://github.com/velislav088/LostMost)
 A mobile app for **finding nRF52840 tags via ESP32 routers**, built with Flutter and Dart.
-### [TimeWallet](https://github.com/velislav088/TimeWallet)
-A **personal finance manager** that helps track expenses by dividing them into separate budgets
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=velislav088&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
