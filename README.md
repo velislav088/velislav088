@@ -1,9 +1,9 @@
-> **Software Engineer • Mobile Developer in training • DevOps enthusiast**
+> **Software Engineer • Mobile Developer • DevOps enthusiast**
 
 ## 📭 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:velislavdonchev@outlook.com)
 
-## ⚙️ Tech Stack:
+## ⚙️ Tech Stack
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 ### Frontend
@@ -21,7 +21,13 @@
 ### CLI / Scripting
 [![CLI](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
+## 🏢 Projects I'm (currently) working on
+### [LostMost](https://github.com/velislav088/LostMost)
+A mobile app for **finding nRF52840 tags via ESP32 routers**, built with Flutter and Dart.
+### [TimeWallet](https://github.com/velislav088/TimeWallet)
+A **personal finance manager** that helps track expenses by dividing them into separate budgets
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=velislav088&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=velislav088&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
