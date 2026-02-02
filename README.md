@@ -25,8 +25,10 @@
 ### [LostMost](https://github.com/velislav088/LostMost)
 A mobile app for **finding nRF52840 tags via ESP32 routers**, built with Flutter and Dart.
 
+<!--
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=velislav088&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=velislav088&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
