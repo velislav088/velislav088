@@ -7,7 +7,7 @@
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,html,css,javascript&perline=4)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,nodejs,html,css,javascript&perline=3)](https://skillicons.dev)
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=cs,dotnet,supabase)](https://skillicons.dev)
 ### Mobile
