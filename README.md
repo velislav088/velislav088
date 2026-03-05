@@ -18,7 +18,7 @@
 [![Design](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 ### Tools & IDEs
 [![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman)](https://skillicons.dev)
-### CLI / Scripting
+### CLI & Scripting
 [![CLI](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
 
 ## 🏢 Projects I'm (currently) working on
