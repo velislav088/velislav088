@@ -21,7 +21,7 @@
 ## ⚙️ Tech Stack
 
 ### DevOps & Cloud
-[![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,bash,powershell)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,grafana,prometheus,bash,powershell)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=cs,dotnet,supabase,postgres,sqlite)](https://skillicons.dev)
