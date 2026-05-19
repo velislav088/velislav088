@@ -35,25 +35,6 @@
 
 ---
 
-## 🚀 What I'm Working On
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [GoAir](https://github.com/velislav088/GoAir) | Airline management simulator | ASP.NET Core, EF Core, MSSQL | 🔨 Active |
-| [LostMost](https://github.com/velislav088/LostMost) | BLE tag finder app using ESP32 routers | Flutter, Dart | 🔨 Active |
-| [TimeWallet](https://github.com/velislav088/TimeWallet) | Personal finance tracker | C#, JavaScript | ✅ Complete |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velislav088&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velislav088&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📭 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:velislavdonchev@outlook.com)
