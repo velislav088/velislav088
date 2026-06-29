@@ -19,7 +19,7 @@
 ## ⚙️ Tech Stack
 
 ### DevOps & Cloud
-[![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,grafana,prometheus,bash,powershell)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,grafana,prometheus,jenkins,linux,bash,powershell)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=cs,dotnet,supabase,postgres)](https://skillicons.dev)
@@ -31,7 +31,7 @@
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 ### Tools & IDEs
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,obsidian)](https://skillicons.dev)
 
 ---
 
