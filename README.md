@@ -19,19 +19,19 @@
 ## ⚙️ Tech Stack
 
 ### DevOps & Cloud
-[![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,grafana,prometheus,jenkins,linux,bash,powershell)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,linux,grafana,prometheus,terraform,jenkins,bash,powershell)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=cs,dotnet,supabase,postgres)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,typescript,javascript,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,typescript,javascript,html,css)](https://skillicons.dev)
 
 ### Mobile
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 ### Tools & IDEs
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,obsidian)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,ai,obsidian)](https://skillicons.dev)
 
 ---
 
