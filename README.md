@@ -21,8 +21,8 @@
 ### DevOps & Cloud
 [![DevOps](https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,linux,grafana,prometheus,terraform,jenkins,bash,powershell)](https://skillicons.dev)
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=cs,dotnet,supabase,postgres)](https://skillicons.dev)
+### Backend & Systems
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,supabase,postgres,py,fastapi,cpp,cmake)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,typescript,javascript,html,css)](https://skillicons.dev)
